@@ -16,6 +16,8 @@ var PLAYERS = [
     },
 ];
 
+var test_API = "testapi"
+
 var nextId = 3;
 
 function App() {
